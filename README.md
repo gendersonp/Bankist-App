@@ -1,4 +1,4 @@
-# BankistApp landing page
+# Bankist App
 
 ## About Bankist
 
