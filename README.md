@@ -2,6 +2,13 @@
 
 ## About Bankist
 
-This is a fictional WebPage created for a bank with the JavaScript language, using lazy loading for the images, and creating a beautiful and clean website with nice effects to practice some techniques and improving in the Js language.
+This is a fictional app created for a bank where you can tranfer, receive money also request loans, implemented with JavaScript language, using dates, array methods practice some techniques to improve in the Js language.
 
-## https://bankist-landing-gpm.netlify.app/
+if you want to interact with, use the next credentials
+User:js
+Pin:1111
+
+User:jd
+Pin:2222
+
+## https://bankistapp-gpm.netlify.app/
